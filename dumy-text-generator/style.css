@@ -37,7 +37,7 @@ body {
 }
 
 /* lower section */
-.lowerSection {
+/* .lowerSection {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -73,7 +73,7 @@ body {
     outline: none;
     padding: 5px 18px;
 
-}
+} */
 
 .inputField:focus {
     background-color: #176B87;
