@@ -29,7 +29,6 @@ html {
     font-size: 30px;
     border-style: none;
     margin-top: 30px;
-    /* margin-left: 50px; */
   }
   
   #subt {
@@ -41,7 +40,6 @@ html {
     font-size: 20px;
     border-style: none;
     margin-top: 30px;
-    /* margin-left: 75px; */
   }
   
   #guessField {
@@ -51,42 +49,35 @@ html {
     font-size: 30px;
     border-style: none;
     margin-top: 25px;
-  
-    /* margin-left: 50px; */
     border: 5px solid #6c6d6d;
     text-align: center;
   }
   
   #guess {
-    font-size: 40px;
-    /* margin-left: 90px; */
+    font-size: 30px;
     margin-top: 80px;
     color: #fff;
   }
-  
+
   .guesses {
     background-color: #7a7a7a;
   }
-  
   #wrapper {
     box-sizing: border-box;
     text-align: center;
     width: 450px;
-    height: 620px;
+    height: 100%;
     background-color: #474747;
     color: #fff;
     font-size: 25px;
   }
-  
-  h2 {
+  h3 {
     background-color: #161616;
     padding: 20px;
     color: #fff;
     text-align: center;
   }
-  
   p {
     font-size: 16px;
     text-align: center;
   }
-  
