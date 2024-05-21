@@ -10,11 +10,33 @@ for (let i=0; i<10; i++){
 
 // Problem 2 : Print a table containing multiplication tables
 
-console.log('multiplication of tables:');
+console.log('Multiplication of tables:');
 
-for (let i=0; i<=10; i++){
-    for (let j=0; j<=10; j++){
+for (let i=1; i<=10; i++){
+    for (let j=1; j<=10; j++){
         console.log(`${i} x ${j} = ${i*j}`);
     }
-    console.log(); // Add a line space after every table ends
+    console.log("  "); // Add a line space after every table ends
 }
+
+// Problem 3 : Create a length converter 
+
+function convertLength(kilometer){
+    const miles = kilometer * 0.784376;
+    return miles;
+}
+console.log(convertLength(7));
+
+// Problem 4 : Create a temperature converter
+
+function convertTemperature(celsius){
+    const fahrenheit = (celsius * 9/5) + 32;
+    return fahrenheit;
+}
+console.log(convertTemperature(37));
+
+function convertTemperature(fahrenheit){
+    const celsius = (fahrenheit - 32) * 5.0 / 9.0;
+    return celsius;
+}
+console.log(convertTemperature(100));
