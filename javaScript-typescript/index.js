@@ -40,3 +40,14 @@ function convertTemperature(fahrenheit){
     return celsius;
 }
 console.log(convertTemperature(100));
+
+// Problem 5 : Calculate the sum of numbers within an array
+
+const numbers = [5, 8, 9, 4, 3, 7];
+let sum = 0;
+
+for (let i=0; i<numbers.length; i++){
+    sum += numbers[i];
+}
+console.log(sum);
+
