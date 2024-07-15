@@ -1,1 +1,1 @@
-## JS Proejcts
+## JavaScript Proejcts
