@@ -117,3 +117,6 @@ This repository hosts a variety of JavaScript projects aimed at practicing and d
 **Features:**
 - Real-time validation feedback
 - Supports multiple input types
+
+## How to Run
+Clone the repository and navigate to the desired project's folder. Open the `index.html` file in a web browser to view the project.
