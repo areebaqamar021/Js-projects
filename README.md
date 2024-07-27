@@ -127,7 +127,4 @@ Navigate to the desired project folder and open index.html
 Contributions are welcome! If you have suggestions or improvements, please fork the repository, create a pull request, or open an issue.
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-```bash
-
-This version includes a Table of Contents, technologies used for each project, mentions of APIs where applicable, and a concise About section. Adjust specific details as needed for your projects.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
