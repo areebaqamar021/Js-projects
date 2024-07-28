@@ -141,6 +141,8 @@ This repository contains JavaScript projects developed to practice and demonstra
 - Puzzle generation
 - Difficulty levels
 
+![Screenshot of the project](assets/sudoku.png)
+
 ## How to Run
 Clone the repository and navigate to the desired project's folder. Open the `index.html` file in a web browser to view the project.
 
