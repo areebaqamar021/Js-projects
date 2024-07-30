@@ -141,7 +141,7 @@ This repository contains JavaScript projects developed to practice and demonstra
 - Puzzle generation
 - Difficulty levels
 
-<img src="assets/sudoku.png" alt="Screenshot" width="500">
+
 
 <!-- ![Screenshot of the project](assets/sudoku.png) -->
 
