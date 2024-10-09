@@ -13,7 +13,6 @@ This repository contains JavaScript projects developed to practice and demonstra
   - [Guess the Country](#guess-the-country)
   - [Guess the Number](#guess-the-number)
   - [Habit Tracker](#habit-tracker)
-  - [JavaScript TypeScript Problems](#javascript-typescript-problems)
   - [Random Password Generator](#random-password-generator)
   - [Scientific Calculator](#scientific-calculator)
   - [Sudoku](#sudoku)
