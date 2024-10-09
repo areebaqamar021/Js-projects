@@ -105,15 +105,6 @@ This repository contains JavaScript projects developed to practice and demonstra
 - Habit input and tracking
 - Progress visualization
 
-### JavaScript TypeScript Problems
-**Description:** Solutions to common JavaScript and TypeScript coding challenges, including problem-solving techniques.
-
-**Technologies:** JavaScript, TypeScript
-
-**Features:**
-- Problem descriptions and solutions
-- Code optimization tips
-
 ### Random Password Generator
 **Description:** Generates random passwords with customizable options for length and character types.
 
